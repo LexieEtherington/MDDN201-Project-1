@@ -1,3 +1,3 @@
-19/08/2020
+Final Website
 
-Today I am putting the finishing touches on my website, I am really pleased with my current outcome and I have managed to fix everything in between. I think I have a good pitch towards my idea of Closing the Gap
+Closing the Gap is a browser extension which helps users navigate the internet, making slight changes for the user, that allow them to work more efficiently online. Through research I have been able to understand better what users with Dyslexia may need and how creating my interface I couldn't make a 'one size fits all' browser extension. Overall I am pleased with my final outcome, I am interested in taking this to the next level for project two and would personally want to use Closing the Gap in my everyday life.
